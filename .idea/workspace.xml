@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c3fa0b6-a093-4351-bec0-b3845e7f75f7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/NewGitTest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/git commands" afterPath="$PROJECT_DIR$/git commands" />
     </list>
     <ignored path="NewGitTest.iws" />
@@ -32,8 +27,8 @@
       <file leaf-file-name="git commands" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/git commands">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="110">
+              <caret line="5" column="97" selection-start-line="5" selection-start-column="97" selection-end-line="5" selection-end-column="97" />
               <folding />
             </state>
           </provider>
@@ -185,12 +180,12 @@
       <updated>1473788706514</updated>
       <workItem from="1473788708025" duration="1020000" />
       <workItem from="1473802808135" duration="1387000" />
-      <workItem from="1473804647482" duration="210000" />
+      <workItem from="1473804647482" duration="495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2617000" />
+    <option name="totallyTimeSpent" value="2902000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="0" width="1924" height="1038" extended-state="0" />
@@ -256,8 +251,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/git commands">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="110">
+          <caret line="5" column="97" selection-start-line="5" selection-start-column="97" selection-end-line="5" selection-end-column="97" />
           <folding />
         </state>
       </provider>
