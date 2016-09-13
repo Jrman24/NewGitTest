@@ -1,0 +1,9 @@
+ cd = change directories;
+
+ git clone; //
+ git status;//look for changes in local & master files
+
+ esc :wq to escape a commit error page and save if you forget to add a message while committing.
+
+
+
